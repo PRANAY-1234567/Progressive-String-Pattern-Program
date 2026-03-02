@@ -1,4 +1,5 @@
 📘 Progressive String Pattern Program (Python)
+
 📌 Overview
 
 This Python program prints a progressive substring pattern of a given word.
