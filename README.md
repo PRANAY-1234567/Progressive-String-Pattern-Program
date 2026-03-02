@@ -78,3 +78,5 @@ How slicing works in Python
 How loops interact with strings
 
 How to generate dynamic patterns using indexing
+
+<img width="651" height="801" alt="image" src="https://github.com/user-attachments/assets/8a80be8e-e5cb-41bb-a705-65f3b9cc22e4" />
