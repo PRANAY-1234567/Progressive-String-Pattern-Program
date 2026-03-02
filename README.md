@@ -7,6 +7,7 @@ Each line displays the string from the first character up to the current index.
 It demonstrates string slicing and the use of loops in Python.
 
 ⚙️ Source Code
+
 word = "Pranay"
 
 for i in range(1, len(word) + 1):
